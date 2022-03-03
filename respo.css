@@ -1,0 +1,18 @@
+@media (min-width:320px) ,(max-width:400px)  { 
+    .banner2{
+        padding: 0;
+    }
+    .container-part3-text {
+        font-size: 6em;
+        font-weight: bold;
+        padding: 50px;
+    }
+
+    .part-3-con{
+         height: 100px;
+    }
+    /* .blue-bg{
+       height: 200vh
+    } */
+    
+}

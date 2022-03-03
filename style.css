@@ -1,0 +1,158 @@
+/* *{
+    padding: 0;
+    margin: 0;
+}
+.row{
+    padding: 0;
+    margin: 0;
+}*/
+.container-fluid{
+    padding: 0;
+    margin: 0;
+}
+ 
+.bg-color{
+    background-color: #eaeaea;
+}
+/* .img-fluid{
+
+    background: url("./img/bg.jpg") no-repeat center center/cover;
+    height: 100vh;
+    width: 100%; 
+} */
+.bg-section{
+    padding: 0;
+    margin: 0;
+}
+.bg-text{
+    margin: 12%;
+    font-size: 55px;
+    font-weight: bold;
+}
+.hr-line{
+    border: 10px solid #a95ffc;
+}
+.dot{
+    list-style-type: none;
+    padding: 0px 10px;
+}
+.bg-text2{
+    text-align: right;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+/* part-2 */
+.banner2{
+    background-color: #4a1cf0a1;
+    /* height: 118vh; */
+    padding-bottom: 100%;
+}
+
+.banner2-text{
+    font-size: 5em;
+    font-weight: bold;
+    padding: 10%;
+    color: white;
+}
+
+.container-run{
+    padding: 25px 25px;
+    height: 30vh;
+    /* width: 70vh; */
+    background-color: #eaeaea;
+}
+.text{
+    font-size: 2em;
+    font-weight: bold;
+}
+.run-btn{
+    background-color: #4a1cf0a1;
+    padding: 2px 22px;
+    color: white;
+    border-radius: 15px;
+}
+
+.container-img{
+    background-color: #eaeaea;
+    height: auto;
+}
+
+/* part-3 */
+.banner3-content{
+    background-color: rgba(75, 3, 184, 0.712);
+}
+.container-part3-text{
+    font-size: 7em;
+    color: white;
+    font-weight: bold;
+    padding: 70px;
+    /* margin: 15%; */
+}
+
+#bottom{
+    position: absolute;
+    bottom: 0;
+    font-size: 20px;
+    color: white;
+    padding: 50px;  
+}
+
+/* part-4 */
+.part-4-bg{
+    background-color: black;
+    z-index: 1;
+    position: relative;
+    height: auto;
+}
+.blue-bg{
+    height: 130vh;
+    background: conic-gradient(
+      black  0deg 180deg,  rgba(116, 43, 226, 0.699) 180deg 360deg);
+      /* background-color: #a95ffc; */
+      /* width: 25rem; */
+
+}
+.container-mobile{
+    padding: 70px;
+    margin-left: 10%;
+    margin-right: 10%;
+    max-width: 70em;
+    height: auto;
+    margin: auto;
+}
+.row{
+    top:5px;
+}
+.part-4-img{
+    position: absolute;
+    right: 10%;
+    left: 10%;
+    top: 10%
+
+}
+.mobile-img img{
+    /* height: 300px;
+    width: 350px; */
+    padding-bottom: 30px;
+}
+.container{
+    margin: auto;
+    /* position: absolute; */
+    width: auto;
+}
+
+.container-text{
+    position: absolute;
+    height: auto;
+    width: 450px;
+    background-color: white;
+    padding: 30px 50px;
+    bottom: 70px;
+    right: 70px;
+    z-index: 12;
+}
+
+/* slider */
+
